@@ -16,7 +16,7 @@ export const NoticeForm = () => (
       </form>
 
       <div>
-        <p className="sub-title"> Enquanto isso teste seus olies, aperte ESPAÇO para começar</p>
+        <p className="sub-title"> Enquanto isso teste seus ollies, aperte ESPAÇO para começar</p>
       </div>
 
     </div>
