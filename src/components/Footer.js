@@ -7,7 +7,7 @@ export const Footer = () => (
         <img src={instagram} className="insta-icon" alt="Instagram" />
       </a>
       <div className="copyright">
-          <p> Brotherhood Skateboard - 2021 © Todos os direitos reservados.</p>
+          <p> Brotherhood Skateboard - 2022 © Todos os direitos reservados.</p>
       </div>
     </div>
 )
