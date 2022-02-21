@@ -1,0 +1,66 @@
+.container {
+  font-family: bahnschrift, italic;
+  font-weight:400;
+  background-color: #000;
+  text-align: center;
+  align-content: center;
+  color: #fff;
+  line-height: 1.6;
+}
+h1 {
+  font-weight: 200;
+}
+form.notice-form-comp {
+  margin: 20px auto;
+  width: 500px;
+}
+.sub-title, .form-call {
+  margin: 40px auto;
+}
+
+.dividers {
+  border-color: #1d1f21;
+}
+.footer {
+  background-color: #111114;
+  padding: 30px 20px;
+
+}
+.insta-icon {
+  color: #fff;
+  margin: 20px;
+  width: 32px;
+  height: auto;
+}
+.App-logo {
+  width: 360px;
+}
+
+.copyright {
+  font-size: 10px;
+  color: #404050;
+  margin: 0 0 30px 0;
+}
+input {
+  width: 100%;
+  padding: 20px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;  
+}
+input[type=submit] {
+  background-color: #1d1f21;
+  color: white;
+  cursor: pointer;
+  border: none;
+  font-weight: bold;
+}
+input[type=submit]:hover {
+  background-color: #2c3135;
+  border: none;
+}
+::placeholder {
+  color: rgb(203, 202, 207);
+  font-style: italic;
+}
